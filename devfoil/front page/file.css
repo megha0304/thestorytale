@@ -1,0 +1,62 @@
+*{
+ margin: 0%;
+ padding: 0%;
+  
+  
+}
+header{
+background-image:linear-gradient(rgba(43, 38, 38, 0.5), rgba(32, 27, 27, 0.5)) ,url(children-reading-730x430.jpg);
+background-size: cover;
+height: 100vh;
+background-position: top;
+}
+.u{
+
+color:white;
+
+
+font-style: italic;
+position: relative;
+
+}
+.meg{
+
+    color: rgb(255, 241, 241);
+    
+    font-size: 50px;
+    
+position: relative;}
+
+
+
+.ol{
+font-family: Arial, Helvetica, sans-serif;
+font-style:bold;
+position:absolute;
+top: 50%;
+left: 50%;
+padding-left:5px;
+border: solid 2px rgb(246, 245, 245);
+float:right;
+
+display: inline;
+}
+
+.hume{
+position:absolute;
+padding-left: 245px;
+padding-top: 200px;
+padding-bottom:352px;
+padding-right: 200px;
+font-family: 'Merriweather', serif;
+display: inline;
+}
+.union img{
+
+float:left;
+position: top;
+height: auto;
+width: 120px;
+
+
+}
